@@ -1,2 +1,2 @@
 # Mani-Project
-Airline Passenger Satisfaction using python
+Airline Passenger Satisfaction Analysis using python
